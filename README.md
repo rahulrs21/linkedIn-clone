@@ -6,7 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `Go Live` Deployed the app successfully.
+[Click Here](https://linkedin-clone-yt-6c800.web.app/) to view in your browser
+
+### `npm start` to view as a localhost
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
