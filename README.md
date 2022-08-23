@@ -6,8 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `Go Live` Deployed the app successfully.
-[Click Here](https://linkedin-clone-yt-6c800.web.app/) to view in your browser
+### Deployed the app successfully.
+### `[Go Live]`(https://linkedin-clone-yt-6c800.web.app/) to view in your browser
+
+![Calculator-app!]([https://raw.githubusercontent.com/rahulrs21/calculator-app/main/Calculator-app.jpg](https://raw.githubusercontent.com/rahulrs21/linkedIn-clone/main/login-linkedin.png))
 
 ### `npm start` to view as a localhost
 
